@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👩 , I'm Sukriti</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center">A Web developer from India</h3>
 
 - 🔭 I’m currently working on **Hackathon Projects**
 
