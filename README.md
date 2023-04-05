@@ -1,17 +1,17 @@
 <h1 align="center">Hello 👩 I'm Sukriti</h1>
-<h3 align="center">A Web developer from India</h3>
+<h3 align="center">A Web developer</h3>
 
-- 🔭 I’m currently working on **Hackathon Projects**
+- 🔭 I’m currently working as a **Frontend Developer**
 
-- 🌱 I’m currently learning **Backend and Blockchain**
+- 🌱 I’m currently learning **Backend**
 
-- 👯 I’m looking to collaborate on **Web Development Projects and Blockchain**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Html, Css, React**
+- 💬 Ask me about **HTML, CSS,SCSS, JS, React,Redux, Material UI, Bootstrap, Git,Github, Working at a startup**
 
 - 📫 How to reach me **sukriti.singh899@gmail.com**
 
-- ⚡ Fun fact **I have a great sense of humour**
+- ⚡ Fun fact **I have a good sense of humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
