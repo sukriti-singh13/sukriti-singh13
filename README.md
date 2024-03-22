@@ -3,15 +3,11 @@
 
 - 🔭 I’m currently working as a **Frontend Developer**
 
-- 🌱 I’m currently learning **Backend**
-
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **HTML, CSS,SCSS, JS, React,Redux, Material UI, Bootstrap, Git,Github, Working at a startup**
+- 💬 Ask me about **HTML, CSS,SCSS, JS,Next,Typescript, React,Redux,Shadcn,Tailwind Css, Material UI, Bootstrap, Git,Github, Working at startup**
 
 - 📫 How to reach me **sukriti.singh899@gmail.com**
-
-- ⚡ Fun fact **I have a good sense of humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
