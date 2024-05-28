@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👩 I'm Sukriti</h1>
-<h3 align="center">A Web developer</h3>
+<h3 align="center">A Frontend developer</h3>
 
 - 🔭 I’m currently working as a **Frontend Developer**
 
